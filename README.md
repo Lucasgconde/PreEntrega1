@@ -1,0 +1,1 @@
+Este código simula una tienda de "Sponsor Dios de YSY A". El usuario selecciona productos (remera, buzo o gorra) y la cantidad deseada. El programa calcula el subtotal de cada elección, lo suma al total general y genera un resumen de compra. Al finalizar, muestra el total y el detalle de la compra en una alerta.
